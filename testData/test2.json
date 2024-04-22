@@ -1,0 +1,24 @@
+{
+	"data": {
+		"title": "HTML",
+		"codeList": [
+			{
+				"id": 1,
+				"title": "HTMLのコード1"
+			},
+			{
+				"id": 2,
+				"title": "HTMLのコード2"
+			},
+			{
+				"id": 3,
+				"title": "HTMLのコード3"
+			},
+			{
+				"id": 4,
+				"title": "HTMLのコード4"
+			}
+		]
+	}
+	
+}
